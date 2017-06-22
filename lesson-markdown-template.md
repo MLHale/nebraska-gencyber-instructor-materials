@@ -23,6 +23,9 @@
 
 * __Simplicity__: Simplicity allows a person to better understand hardware and software. Without the clutter of unnecessarily complicated code and interfaces, the software will be more understandable by people that will update the code when requirements change. It will be easier to understand by the testers and they will be able to spot problems sooner. By keeping software as simple and as focused as possible, the reliability and security is greatly increased.
 
+### Introduction
+(short intro (1 paragraph or less) that describes the problem and knowledge gained in this lesson - should be catchy, then delete this line)
+
 ### Materials Required
 (list any needed hardware or software here, then delete this line)
 
