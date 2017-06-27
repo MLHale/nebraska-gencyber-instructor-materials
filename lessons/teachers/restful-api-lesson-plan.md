@@ -18,8 +18,8 @@ Educators
 - [x] Abstraction
 - [x] Data Hiding
 - [x] Layering
-- [ ] Simplicity
-- [ ] Minimization
+- [x] Simplicity
+- [x] Minimization
 
 ### Learning Objectives
 
