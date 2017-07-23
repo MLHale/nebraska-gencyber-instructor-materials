@@ -1,5 +1,5 @@
 # nebraska-gencyber-instructor-materials
-Holds files for Nebraska GenCyber not destined for public release. Is a submodule to https://github.com/MLHale/nebraska-gencyber
+Holds files for Nebraska GenCyber related to lesson plans. Is a submodule to https://github.com/MLHale/nebraska-gencyber
 
 # License  
 [Nebraska GenCyber](https://github.com/MLHale/nebraska-gencyber) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
