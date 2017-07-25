@@ -51,7 +51,7 @@ Several scenarios about ethical situations
 * Least Privilege (?)
 
 [comment]: # (Not sure what Least Privilege is here, need to ask)
-Need to come up with scenarios where there is a clear answer based on 10 commandments but it should not be so obvious that all people initially agree.  Education must change minds.
+ToDo: Need to come up with scenarios where there is a clear answer based on 10 commandments but it should not be so obvious that all people initially agree.  Education must change minds.
 
 #### Closure
 ... wrap up part ...
