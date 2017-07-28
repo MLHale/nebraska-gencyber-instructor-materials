@@ -50,9 +50,11 @@ Each item below is optional.
 
 ### Key
 TODO:  Add keywords in each block explaining why
+
 TODO: List of keywords per column/row
 
 Combo 1     states vs characteristics
+
 |                 | 22 Confidentiality                                                                 | 23 Integrity | 24 Availability |
 |-----------------|------------------------------------------------------------------------------------|--------------|-----------------|
 | 25 Storage      | 31 <font color="red">Encryption(22)</font> <font color="red">Hard Drive(25)</font> |      36      |        38       |
@@ -60,6 +62,7 @@ Combo 1     states vs characteristics
 | 27 Processing   |                                         33                                         |      35      |        37       |
 
 Combo 2   states vs. counter measures
+
 |                 | 28 Education                                                       | 29 Policy | 30 Tehcnology |
 |-----------------|--------------------------------------------------------------------|-----------|---------------|
 | 25 Storage      | 38 <font color="red">??(??)</font> <font color="red">??(??)</font> |     36    |       31      |
@@ -67,6 +70,7 @@ Combo 2   states vs. counter measures
 | 27 Processing   |                                 35                                 |     33    |       37      |
 
 Combo 3    characteristics vs. counter measures 
+
 |                    | 28 Education                                                       | 29 Policy | 30 Tehcnology |
 |--------------------|--------------------------------------------------------------------|-----------|---------------|
 | 22 confidentiality | 32 <font color="red">??(??)</font> <font color="red">??(??)</font> |     33    |       31      |
