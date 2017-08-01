@@ -66,18 +66,17 @@ Combo 2   states vs. counter measures
 
 | **Game 2**              | *28* Education (E)                     | *29* Policy (Po)                      | *30* Technology (Te)                              |
 |-------------------------|----------------------------------------|---------------------------------------|---------------------------------------------------|
-| **25 Storage (S)**      | *38* `files` (S) `training` (C)        | *36* `rules` (Po) `backups` (S)       | *31* `hard drive` (S) `AES encryption` (Te)       |
+| **25 Storage (S)**      | *38* `files` (S) `training` (E)        | *36* `rules` (Po) `backups` (S)       | *31* `hard drive` (S) `AES encryption` (Te)       |
 | **26 Transmission (T)** | *32*  `send email` (T) `unsure` (E)    | *39* `recovery plan` (Po) `email` (T) | *34* `email` (T) `digital signature` (Te)         |
-| **27 Processing (P)**   | *35* `compute` (P) `reads article` (C) | *33* `compute` (P) `rule` (Po)        | *37* `powerful device` (Te) `run application` (P) |
+| **27 Processing (P)**   | *35* `compute` (P) `reads article` (E) | *33* `compute` (P) `rule` (Po)        | *37* `powerful device` (Te) `run application` (P) |
 
 Combo 3    characteristics vs. counter measures 
 
-|                    | 28 Education                                                       | 29 Policy | 30 Tehcnology |
-|--------------------|--------------------------------------------------------------------|-----------|---------------|
-| 22 confidentiality | 32 <font color="red">??(??)</font> <font color="red">??(??)</font> |     33    |       31      |
-| 23 Integrity       |                                 35                                 |     36    |       34      |
-| 24 Availability    |                                 38                                 |     39    |       37      |
-
+| **Game 3**                 | *28* Education (E)                        | *29* Policy (Po)                                              | *30* Technology (Te)                                 |
+|----------------------------|-------------------------------------------|---------------------------------------------------------------|------------------------------------------------------|
+| **22 Confidentiality (C)** | *32* `unsure` (E) `no one can read` (C)   | *33* `secrecy` (C) `rules` (Po)                               | *31* `sensitive data` (C) `AES encryption` (Te)      |
+| **23 Integrity (I)**       | *35*  `incorrect` (I) `reads article` (E) | *36* `not altered` (I) `rules` (Po)                           | *34* `digitally signed` (Te) `digital signature` (I) |
+| **24 Availability (A)**    | *38* `find files` (A) `training` (E)      | *39* `constant email communications` (A) `recovery plan` (Po) | *37* `powerful device` (Te) `slow and freezes` (A)   |
 
 ### Assessment
 
