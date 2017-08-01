@@ -55,11 +55,12 @@ TODO: List of keywords per column/row
 
 Combo 1     states vs characteristics
 
-| **Game 1**              | *22* Confidentiality (C)                     | *23* Integrity (I)                                 | *24* Availability (A)                             |   |
-|-------------------------|----------------------------------------------|----------------------------------------------------|---------------------------------------------------|---|
-| **25 Storage (S)**      | *31* `Encryption` (S) `Hard Drive` (C)       | *36* `altered by anyone` (I) `backups` (S)         | *38* `files` (S) `finding files` (A)              |   |
-| **26 Transmission (T)** | *32*  `send email` (T) `no one can read` (C) | *34* `digital signature` (I) `email` (T)           | *39* `email` (T) `disaster recovery` (A)          |   |
-| **27 Processing (P)**   | *33* `compute` (P) `secrecy` (C)             | *35* `CPU calculations` (P) `incorrect values` (I) | *37* `slow and freezes` (A) `run application` (P) |   |
+| **Game 1**              | *22* Confidentiality (C)                     | *23* Integrity (I)                                 | *24* Availability (A)                             |
+|-------------------------|----------------------------------------------|----------------------------------------------------|---------------------------------------------------|
+| **25 Storage (S)**      | *31* `Encryption` (S) `Hard Drive` (C)       | *36* `altered by anyone` (I) `backups` (S)         | *38* `files` (S) `finding files` (A)              |
+| **26 Transmission (T)** | *32*  `send email` (T) `no one can read` (C) | *34* `digital signature` (I) `email` (T)           | *39* `email` (T) `disaster recovery` (A)          |
+| **27 Processing (P)**   | *33* `compute` (P) `secrecy` (C)             | *35* `CPU calculations` (P) `incorrect values` (I) | *37* `slow and freezes` (A) `run application` (P) |
+
 
 Combo 2   states vs. counter measures
 
